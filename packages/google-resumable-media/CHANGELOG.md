@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-resumable-media/#history
 
+## [2.10.1](https://github.com/codyoss/google-cloud-python/compare/google-resumable-media-v2.10.0...google-resumable-media-v2.10.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* **google-resumable-media:** Drop support for Python 3.9 ([#16938](https://github.com/codyoss/google-cloud-python/issues/16938)) ([33b5505](https://github.com/codyoss/google-cloud-python/commit/33b55050e75d956efb4c3c4438f339e46e8e9782))
+* **project urls:** update incorrect urls in setup.py to point at monorepo vs splitrepo ([#17237](https://github.com/codyoss/google-cloud-python/issues/17237)) ([eaed04b](https://github.com/codyoss/google-cloud-python/commit/eaed04baf3cd356c3811c66e64c277c8841c7563))
+
 ## [2.10.0](https://github.com/googleapis/google-cloud-python/compare/google-resumable-media-v2.9.0...google-resumable-media-v2.10.0) (2026-06-02)
 
 

@@ -41,7 +41,7 @@ if hasattr(DEFAULT_CLIENT_INFO, "protobuf_runtime_version"):  # pragma: NO COVER
 
 
 class SecretManagerServiceTransport(abc.ABC):
-    """Abstract transport class for SecretManagerService."""
+    """Abstract transport class for SecretManagerService, thats cool."""
 
     AUTH_SCOPES = ("https://www.googleapis.com/auth/cloud-platform",)
 

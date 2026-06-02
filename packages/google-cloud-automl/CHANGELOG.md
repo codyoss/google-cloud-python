@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-automl/#history
 
+## [2.21.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-automl-v2.20.0...google-cloud-automl-v2.21.0) (2026-06-02)
+
+
+### Features
+
+* regenerate automl using generator v1.32.0 ([#17143](https://github.com/codyoss/google-cloud-python/issues/17143)) ([5084ef0](https://github.com/codyoss/google-cloud-python/commit/5084ef0071e1763c03db60c80b9ff4f99d688fc7))
+
 ## [2.20.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-automl-v2.19.0...google-cloud-automl-v2.20.0) (2026-06-02)
 
 

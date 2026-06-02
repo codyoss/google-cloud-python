@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-workstations/#history
 
+## [0.8.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-workstations-v0.8.0...google-cloud-workstations-v0.8.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-[t-w] packages ([#17076](https://github.com/codyoss/google-cloud-python/issues/17076)) ([928a03c](https://github.com/codyoss/google-cloud-python/commit/928a03ce41fbcb82398636e89f840c00c7749cf8))
+
 ## [0.8.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-workstations-v0.7.0...google-cloud-workstations-v0.8.0) (2026-03-26)
 
 

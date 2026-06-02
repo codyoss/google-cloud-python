@@ -4,6 +4,19 @@
 
 [1]: https://pypi.org/project/google-cloud-ndb/#history
 
+## [2.6.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-ndb-v2.5.0...google-cloud-ndb-v2.6.0) (2026-06-02)
+
+
+### Features
+
+* enable mypy session for ndb ([#16691](https://github.com/codyoss/google-cloud-python/issues/16691)) ([192ccc5](https://github.com/codyoss/google-cloud-python/commit/192ccc52a030a59f7e2c49ed9701130156d73d6f))
+
+
+### Bug Fixes
+
+* allow redis 7.x ([#16533](https://github.com/codyoss/google-cloud-python/issues/16533)) ([4c541cf](https://github.com/codyoss/google-cloud-python/commit/4c541cf2a364ef7ba39bc48c0a6a063a9334d31a))
+* **ndb:** Drop support for Python 3.9 ([#16950](https://github.com/codyoss/google-cloud-python/issues/16950)) ([d37a953](https://github.com/codyoss/google-cloud-python/commit/d37a95301da1db1ee1be273d2ac9af320c91809f))
+
 ## [2.5.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-ndb-v2.4.2...google-cloud-ndb-v2.5.0) (2026-05-06)
 
 

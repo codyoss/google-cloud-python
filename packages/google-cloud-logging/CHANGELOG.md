@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-logging/#history
 
+## [3.17.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-logging-v3.16.0...google-cloud-logging-v3.17.0) (2026-06-02)
+
+
+### Features
+
+* **logging:** drop support for Python 3.7, 3.8, and 3.9 runtimes ([#17276](https://github.com/codyoss/google-cloud-python/issues/17276)) ([014e951](https://github.com/codyoss/google-cloud-python/commit/014e951b6a1a07cb25baf4286e433a0c28783314))
+* regenerate google-cloud-[k-n] packages ([#17074](https://github.com/codyoss/google-cloud-python/issues/17074)) ([ec54f78](https://github.com/codyoss/google-cloud-python/commit/ec54f78e37bb3b48e0794d544784b99fa13d6f85))
+
 ## [3.16.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-logging-v3.15.0...google-cloud-logging-v3.16.0) (2026-06-02)
 
 

@@ -4,6 +4,26 @@
 
 [1]: https://pypi.org/project/google-cloud-memorystore/#history
 
+## [0.5.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-memorystore-v0.5.0...google-cloud-memorystore-v0.5.1) (2026-06-02)
+
+
+### Features
+
+* A new field `mime_type` is added to message ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* added support for detecting key-value pairs in client provided ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Addition of Section and SectionItem APIs ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* **memorystore:** enable gRPC transport ([#16927](https://github.com/codyoss/google-cloud-python/issues/16927)) ([71b73e5](https://github.com/codyoss/google-cloud-python/commit/71b73e5407e5a5d1d3f57a80d478b345d128ee1d))
+* populate the `persisted_data_checksums` field with object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* regenerate google-cloud-[k-n] packages ([#17074](https://github.com/codyoss/google-cloud-python/issues/17074)) ([ec54f78](https://github.com/codyoss/google-cloud-python/commit/ec54f78e37bb3b48e0794d544784b99fa13d6f85))
+* Support app authentication with admin-consent scopes for Chat API ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
+
+### Documentation
+
+* Fix documentation URL AIInference MessageTransform ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* improve wording around `object_checksums` in bidi write object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Update reference documentation for Chat API ListMessages, ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
 ## [0.5.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-memorystore-v0.4.0...google-cloud-memorystore-v0.5.0) (2026-05-06)
 
 

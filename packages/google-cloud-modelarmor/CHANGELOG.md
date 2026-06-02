@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-modelarmor/#history
 
+## [0.6.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-modelarmor-v0.6.0...google-cloud-modelarmor-v0.6.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-[k-n] packages ([#17074](https://github.com/codyoss/google-cloud-python/issues/17074)) ([ec54f78](https://github.com/codyoss/google-cloud-python/commit/ec54f78e37bb3b48e0794d544784b99fa13d6f85))
+
 ## [0.6.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-modelarmor-v0.5.0...google-cloud-modelarmor-v0.6.0) (2026-05-06)
 
 ## [0.5.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-modelarmor-v0.4.0...google-cloud-modelarmor-v0.5.0) (2026-03-26)

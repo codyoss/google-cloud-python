@@ -4,6 +4,25 @@
 
 [1]: https://pypi.org/project/google-cloud-translate/#history
 
+## [3.27.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-translate-v3.26.0...google-cloud-translate-v3.27.0) (2026-06-02)
+
+
+### Features
+
+* A new field `mime_type` is added to message ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* added support for detecting key-value pairs in client provided ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Addition of Section and SectionItem APIs ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* populate the `persisted_data_checksums` field with object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* regenerate google-cloud-[t-w] packages ([#17076](https://github.com/codyoss/google-cloud-python/issues/17076)) ([928a03c](https://github.com/codyoss/google-cloud-python/commit/928a03ce41fbcb82398636e89f840c00c7749cf8))
+* Support app authentication with admin-consent scopes for Chat API ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
+
+### Documentation
+
+* Fix documentation URL AIInference MessageTransform ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* improve wording around `object_checksums` in bidi write object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Update reference documentation for Chat API ListMessages, ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
 ## [3.26.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-translate-v3.25.0...google-cloud-translate-v3.26.0) (2026-04-09)
 
 

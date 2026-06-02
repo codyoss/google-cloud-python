@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-support/#history
 
+## [0.5.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-support-v0.5.0...google-cloud-support-v0.5.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-s packages ([#17086](https://github.com/codyoss/google-cloud-python/issues/17086)) ([40b522a](https://github.com/codyoss/google-cloud-python/commit/40b522a8473dec7ade45113ddd44ccd960803c45))
+
 ## [0.5.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-support-v0.4.0...google-cloud-support-v0.5.0) (2026-06-02)
 
 

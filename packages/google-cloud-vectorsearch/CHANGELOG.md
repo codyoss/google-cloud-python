@@ -4,6 +4,15 @@
 
 [1]: https://pypi.org/project/google-cloud-vectorsearch/#history
 
+## [0.11.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-vectorsearch-v0.11.0...google-cloud-vectorsearch-v0.11.1) (2026-06-02)
+
+
+### Features
+
+* **google-cloud-vectorsearch:** regenerate library ([#16626](https://github.com/codyoss/google-cloud-python/issues/16626)) ([d80f278](https://github.com/codyoss/google-cloud-python/commit/d80f278ed08501f6a9533e7e1a2a922ce8a21d08))
+* regenerate google-cloud-[t-w] packages ([#17076](https://github.com/codyoss/google-cloud-python/issues/17076)) ([928a03c](https://github.com/codyoss/google-cloud-python/commit/928a03ce41fbcb82398636e89f840c00c7749cf8))
+* update API sources and regenerate ([#16998](https://github.com/codyoss/google-cloud-python/issues/16998)) ([cef659d](https://github.com/codyoss/google-cloud-python/commit/cef659d8207939aab3834a32c99a3a2738cb3015))
+
 ## [0.11.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-vectorsearch-v0.10.0...google-cloud-vectorsearch-v0.11.0) (2026-06-02)
 
 

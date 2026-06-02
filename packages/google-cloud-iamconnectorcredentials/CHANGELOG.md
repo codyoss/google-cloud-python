@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-iamconnectorcredentials/#history
 
+## [0.1.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-iamconnectorcredentials-v0.1.0...google-cloud-iamconnectorcredentials-v0.1.1) (2026-06-02)
+
+
+### Features
+
+* onboard a new library ([2a3458c](https://github.com/codyoss/google-cloud-python/commit/2a3458c8d0d6bb85236cd744baecbe559fb1daf5))
+* regenerate google-cloud-[e-i] packages ([#17079](https://github.com/codyoss/google-cloud-python/issues/17079)) ([5239b18](https://github.com/codyoss/google-cloud-python/commit/5239b1814f216676bf02dea08726313ad355439d))
+
 ## [0.1.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-iamconnectorcredentials-v0.0.0...google-cloud-iamconnectorcredentials-v0.1.0) (2026-04-09)
 
 

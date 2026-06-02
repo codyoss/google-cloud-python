@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/sqlalchemy-spanner/#history
 
+## [1.19.1](https://github.com/codyoss/google-cloud-python/compare/sqlalchemy-spanner-v1.19.0...sqlalchemy-spanner-v1.19.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* **sqlalchemy-spanner:** Drop support for Python 3.8 and 3.9 ([#16913](https://github.com/codyoss/google-cloud-python/issues/16913)) ([f5b392e](https://github.com/codyoss/google-cloud-python/commit/f5b392e57d07295d66f0ad2974e1b2b8040d49c2))
+
 ## [1.19.0](https://github.com/googleapis/google-cloud-python/compare/sqlalchemy-spanner-v1.18.0...sqlalchemy-spanner-v1.19.0) (2026-06-02)
 
 

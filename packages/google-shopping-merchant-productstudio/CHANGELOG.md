@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-shopping-merchant-productstudio/#history
 
+## [0.5.1](https://github.com/codyoss/google-cloud-python/compare/google-shopping-merchant-productstudio-v0.5.0...google-shopping-merchant-productstudio-v0.5.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-shopping packages ([#17072](https://github.com/codyoss/google-cloud-python/issues/17072)) ([2904f05](https://github.com/codyoss/google-cloud-python/commit/2904f059a0eb610180ccd7f3d169c130a1696333))
+
 ## [0.5.0](https://github.com/googleapis/google-cloud-python/compare/google-shopping-merchant-productstudio-v0.4.0...google-shopping-merchant-productstudio-v0.5.0) (2026-06-02)
 
 

@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-dns/#history
 
+## [0.37.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-dns-v0.37.0...google-cloud-dns-v0.37.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* **dns:** Drop support for Python 3.9 ([#16954](https://github.com/codyoss/google-cloud-python/issues/16954)) ([5975c48](https://github.com/codyoss/google-cloud-python/commit/5975c48186dd8798b172ac442fd55bc7fece1612))
+
 ## [0.37.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dns-v0.36.1...google-cloud-dns-v0.37.0) (2026-05-06)
 
 

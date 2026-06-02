@@ -4,6 +4,47 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+## [3.12.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-storage-v3.11.0...google-cloud-storage-v3.12.0) (2026-06-02)
+
+
+### Features
+
+* A new field `mime_type` is added to message ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* add fixed-key metadata support in AAOW ([#16817](https://github.com/codyoss/google-cloud-python/issues/16817)) ([28487f5](https://github.com/codyoss/google-cloud-python/commit/28487f5cff2893a71a42a25a7939c9f9917b3a2b))
+* added support for detecting key-value pairs in client provided ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Addition of Section and SectionItem APIs ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* implement AsyncMultiRangeDownloader with multiplexed bidi-gRPC stream support ([#16528](https://github.com/codyoss/google-cloud-python/issues/16528)) ([493df65](https://github.com/codyoss/google-cloud-python/commit/493df65bcdb028c1f10ccfeb529f4cc1a9c14c16))
+* populate the `persisted_data_checksums` field with object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* **storage:** Add delete_source_objects optional parameter to compose API ([#17163](https://github.com/codyoss/google-cloud-python/issues/17163)) ([16ab4c2](https://github.com/codyoss/google-cloud-python/commit/16ab4c269be673dd9d7ebefe804f5ed99789e0a0))
+* **storage:** add object contexts in Python GCS SDK ([#17039](https://github.com/codyoss/google-cloud-python/issues/17039)) ([15ec8bd](https://github.com/codyoss/google-cloud-python/commit/15ec8bd7d8568e8981f8056374c49e758c51f6e2))
+* **storage:** Add support for blob object in AAOW ([#16577](https://github.com/codyoss/google-cloud-python/issues/16577)) ([3271831](https://github.com/codyoss/google-cloud-python/commit/32718318615a002f074ebd92208043b3d6ccbee9))
+* **storage:** drop Python 3.7-3.9 support and regenerate ([#17178](https://github.com/codyoss/google-cloud-python/issues/17178)) ([c804a93](https://github.com/codyoss/google-cloud-python/commit/c804a93570c5f85f1a957df0e1f32b28d5752dbe))
+* **storage:** Enhance Otel Span Attributes with BucketId and Location details for every Bucket/Blob operation ([a0da993](https://github.com/codyoss/google-cloud-python/commit/a0da993d87eb7691e78690c0ca4316805a497749))
+* Support app authentication with admin-consent scopes for Chat API ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
+
+### Bug Fixes
+
+* propagate quota_project_id and api_endpoint in AsyncGrpcClient ([#16731](https://github.com/codyoss/google-cloud-python/issues/16731)) ([b8b457a](https://github.com/codyoss/google-cloud-python/commit/b8b457aaad0c2593dae8762f70316729133ac1a8))
+* **storage:** fix test_mrd_concurrent_download_cancellation ([#17151](https://github.com/codyoss/google-cloud-python/issues/17151)) ([9ba049a](https://github.com/codyoss/google-cloud-python/commit/9ba049aaef9b7be67ee2443247f59212823da977))
+* **storage:** test_transfer_manager counts unwanted deprecated warnings ([#16744](https://github.com/codyoss/google-cloud-python/issues/16744)) ([955a91b](https://github.com/codyoss/google-cloud-python/commit/955a91b975d49d2598391c1f7edd8cbdbd2e4d7a))
+
+
+### Performance Improvements
+
+* add multiplexing performance tests for AsyncMultiRangeDownloader ([#16501](https://github.com/codyoss/google-cloud-python/issues/16501)) ([2096991](https://github.com/codyoss/google-cloud-python/commit/20969910b4820dbe7d29ce28c5f9e50464fd2dde))
+* improve microbenchmark throughput calculation accuracy ([#16838](https://github.com/codyoss/google-cloud-python/issues/16838)) ([2bfa5d6](https://github.com/codyoss/google-cloud-python/commit/2bfa5d6634a065d50cf3b7887ab929085078d9d5))
+* **storage:** implement fast-path for queue delivery in _StreamMultiplexer ([#16718](https://github.com/codyoss/google-cloud-python/issues/16718)) ([7073be1](https://github.com/codyoss/google-cloud-python/commit/7073be16dd4a6eb65209478f6bee142c19472e37))
+* **storage:** use google_crc32c.value for checksums ([#16719](https://github.com/codyoss/google-cloud-python/issues/16719)) ([c6461a4](https://github.com/codyoss/google-cloud-python/commit/c6461a42850fa6e86976954e894b6a3d2da6c78c))
+* **storage:** use google_crc32c.value() for simpler crc32c calculation ([#16761](https://github.com/codyoss/google-cloud-python/issues/16761)) ([c9846c9](https://github.com/codyoss/google-cloud-python/commit/c9846c927e9221a815417263f641fabae99209ce))
+
+
+### Documentation
+
+* Fix documentation URL AIInference MessageTransform ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* improve wording around `object_checksums` in bidi write object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Update reference documentation for Chat API ListMessages, ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
 ## [3.11.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-storage-v3.10.1...google-cloud-storage-v3.11.0) (2026-06-02)
 
 

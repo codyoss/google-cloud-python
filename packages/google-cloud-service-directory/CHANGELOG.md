@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-service-directory/#history
 
+## [1.19.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-service-directory-v1.18.0...google-cloud-service-directory-v1.19.0) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-s packages ([#17086](https://github.com/codyoss/google-cloud-python/issues/17086)) ([40b522a](https://github.com/codyoss/google-cloud-python/commit/40b522a8473dec7ade45113ddd44ccd960803c45))
+
 ## [1.18.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-service-directory-v1.17.0...google-cloud-service-directory-v1.18.0) (2026-06-02)
 
 

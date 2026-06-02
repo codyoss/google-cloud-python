@@ -4,6 +4,25 @@
 
 [1]: https://pypi.org/project/google-apps-chat/#history
 
+## [0.10.1](https://github.com/codyoss/google-cloud-python/compare/google-apps-chat-v0.10.0...google-apps-chat-v0.10.1) (2026-06-02)
+
+
+### Features
+
+* A new field `mime_type` is added to message ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* added support for detecting key-value pairs in client provided ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Addition of Section and SectionItem APIs ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* populate the `persisted_data_checksums` field with object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* regenerate remaining packages ([#17078](https://github.com/codyoss/google-cloud-python/issues/17078)) ([cc4f36f](https://github.com/codyoss/google-cloud-python/commit/cc4f36f65e8b29d28f636e082435801b899cbca0))
+* Support app authentication with admin-consent scopes for Chat API ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
+
+### Documentation
+
+* Fix documentation URL AIInference MessageTransform ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* improve wording around `object_checksums` in bidi write object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Update reference documentation for Chat API ListMessages, ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
 ## [0.10.0](https://github.com/googleapis/google-cloud-python/compare/google-apps-chat-v0.9.0...google-apps-chat-v0.10.0) (2026-06-02)
 
 

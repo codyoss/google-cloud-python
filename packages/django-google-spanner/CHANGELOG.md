@@ -4,6 +4,17 @@
 
 [1]: https://pypi.org/project/django-google-spanner/#history
 
+## [6.0.0](https://github.com/codyoss/google-cloud-python/compare/django-google-spanner-v5.0.0...django-google-spanner-v6.0.0) (2026-06-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **django-spanner:** support Django 5.2 and deprecate Django 3.2/4.2 ([#16624](https://github.com/codyoss/google-cloud-python/issues/16624))
+
+### Features
+
+* **django-spanner:** support Django 5.2 and deprecate Django 3.2/4.2 ([#16624](https://github.com/codyoss/google-cloud-python/issues/16624)) ([4086982](https://github.com/codyoss/google-cloud-python/commit/4086982861b0214632d53c47ba21d7c83cac8965))
+
 ## [5.0.0](https://github.com/googleapis/google-cloud-python/compare/django-google-spanner-v4.0.3...django-google-spanner-v5.0.0) (2026-05-01 )
 
 ### Breaking changes

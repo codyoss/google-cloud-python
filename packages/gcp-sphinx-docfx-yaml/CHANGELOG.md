@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/gcp-sphinx-docfx-yaml/#history
 
+## [3.3.1](https://github.com/codyoss/google-cloud-python/compare/gcp-sphinx-docfx-yaml-v3.3.0...gcp-sphinx-docfx-yaml-v3.3.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* replace deprecated `utcfromtimestamp` in google-auth-oauthlib ([#16732](https://github.com/codyoss/google-cloud-python/issues/16732)) ([e1c5af7](https://github.com/codyoss/google-cloud-python/commit/e1c5af76593e8710870393f422715d8387051f4e))
+
 ## [3.3.0](https://github.com/googleapis/google-cloud-python/compare/gcp-sphinx-docfx-yaml-v3.2.5...gcp-sphinx-docfx-yaml-v3.3.0) (2026-05-06)
 
 

@@ -4,6 +4,24 @@
 
 [1]: https://pypi.org/project/gapic-generator/#history
 
+## [1.35.0](https://github.com/codyoss/google-cloud-python/compare/gapic-generator-v1.34.1...gapic-generator-v1.35.0) (2026-06-02)
+
+
+### Features
+
+* add `--resource-name-alias` flag to resolve namespace collisions ([#16769](https://github.com/codyoss/google-cloud-python/issues/16769)) ([6fc78e5](https://github.com/codyoss/google-cloud-python/commit/6fc78e58e08c9d5a277d8432f3f9740515b44dee))
+
+
+### Bug Fixes
+
+* bump idna from 3.14 to 3.15 in /packages/gapic-generator ([#17179](https://github.com/codyoss/google-cloud-python/issues/17179)) ([0f7c68b](https://github.com/codyoss/google-cloud-python/commit/0f7c68bfd437e7f366dacd4080f31e219d7c7090))
+* **gapic-generator:** add pragma to `constants.py` to resolve coverage failure and correct `if` block ([#17268](https://github.com/codyoss/google-cloud-python/issues/17268)) ([1436a23](https://github.com/codyoss/google-cloud-python/commit/1436a23c923e799f9909d039e1f418435845565d))
+* pass resource aliases to file-level CommonResources ([#16945](https://github.com/codyoss/google-cloud-python/issues/16945)) ([9652a08](https://github.com/codyoss/google-cloud-python/commit/9652a08cb89441fac779eb4fa4d6f48f33b55d3b))
+* **project urls:** update incorrect urls in setup.py to point at monorepo vs splitrepo ([#17237](https://github.com/codyoss/google-cloud-python/issues/17237)) ([eaed04b](https://github.com/codyoss/google-cloud-python/commit/eaed04baf3cd356c3811c66e64c277c8841c7563))
+* restore messages not attached to rpc in selective_gapic_generation ([#16951](https://github.com/codyoss/google-cloud-python/issues/16951)) ([3ef95d6](https://github.com/codyoss/google-cloud-python/commit/3ef95d61995869318097e414e439da1d6c214d1f))
+* **templates:** resolve core dependencies locally and batch pip installs ([5ca8803](https://github.com/codyoss/google-cloud-python/commit/5ca88030476fd6be7a2eceef9c94c4fc76820f40))
+* **templates:** resolve core dependencies locally and batch pip installs ([#17032](https://github.com/codyoss/google-cloud-python/issues/17032)) ([5ca8803](https://github.com/codyoss/google-cloud-python/commit/5ca88030476fd6be7a2eceef9c94c4fc76820f40))
+
 ## [1.34.1](https://github.com/googleapis/google-cloud-python/compare/gapic-generator-v1.34.0...gapic-generator-v1.34.1) (2026-05-27)
 
 ## [1.34.0](https://github.com/googleapis/google-cloud-python/compare/gapic-generator-v1.33.0...gapic-generator-v1.34.0) (2026-05-27)

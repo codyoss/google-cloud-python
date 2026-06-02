@@ -4,6 +4,16 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [2.31.1](https://github.com/codyoss/google-cloud-python/compare/google-api-core-v2.31.0...google-api-core-v2.31.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* allow Protobuf 7.x ([#16532](https://github.com/codyoss/google-cloud-python/issues/16532)) ([ffb4b71](https://github.com/codyoss/google-cloud-python/commit/ffb4b712121d04a38399e0bd3dc9773e96798564))
+* **api-core:** drop support for Python 3.9 ([#16980](https://github.com/codyoss/google-cloud-python/issues/16980)) ([e5ed472](https://github.com/codyoss/google-cloud-python/commit/e5ed47205cb478a4b6ba8f602b7c7198911d086e))
+* bump protobuf from 4.25.8 to 5.29.6 ([#17021](https://github.com/codyoss/google-cloud-python/issues/17021)) ([8f52e9a](https://github.com/codyoss/google-cloud-python/commit/8f52e9ad30b58436480e35d462e9367172bd6656))
+* **perf:** avoid repeated scan of entire venv via packages_distributions() at import time ([#16579](https://github.com/codyoss/google-cloud-python/issues/16579)) ([c5728b2](https://github.com/codyoss/google-cloud-python/commit/c5728b24fac3363c10a8cfb315b96d3e6459cf06))
+
 ## [2.31.0](https://github.com/googleapis/google-cloud-python/compare/google-api-core-v2.30.3...google-api-core-v2.31.0) (2026-06-02)
 
 

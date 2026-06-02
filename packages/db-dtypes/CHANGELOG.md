@@ -4,6 +4,20 @@
 
 [1]: https://pypi.org/project/db-dtypes/#history
 
+## [1.8.0](https://github.com/codyoss/google-cloud-python/compare/db-dtypes-v1.7.0...db-dtypes-v1.8.0) (2026-06-02)
+
+
+### Features
+
+* **db-dtypes:** support pandas 3.0 ([#17177](https://github.com/codyoss/google-cloud-python/issues/17177)) ([2086b34](https://github.com/codyoss/google-cloud-python/commit/2086b34d8b3418462c9bc89b96eac779a25a3afd))
+* enable mypy session for db-dtypes ([#16689](https://github.com/codyoss/google-cloud-python/issues/16689)) ([856731e](https://github.com/codyoss/google-cloud-python/commit/856731e10a7e8b7531a08f8f799d0321e2fc167d))
+
+
+### Bug Fixes
+
+* bump pyarrow from 13.0.0 to 14.0.1 in /packages/db-dtypes ([#17182](https://github.com/codyoss/google-cloud-python/issues/17182)) ([49252da](https://github.com/codyoss/google-cloud-python/commit/49252da0f81c63ff7bc384dc3ddd92608e15f459))
+* **db-dtypes:** Drop support for Python &lt;= 3.9 ([#16966](https://github.com/codyoss/google-cloud-python/issues/16966)) ([6698861](https://github.com/codyoss/google-cloud-python/commit/66988617e67e9c923d8bcbd4034505ec9a20968f))
+
 ## [1.7.0](https://github.com/googleapis/google-cloud-python/compare/db-dtypes-v1.6.0...db-dtypes-v1.7.0) (2026-06-02)
 
 

@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-area120-tables/#history
 
+## [0.15.1](https://github.com/codyoss/google-cloud-python/compare/google-area120-tables-v0.15.0...google-area120-tables-v0.15.1) (2026-06-02)
+
+
+### Features
+
+* regenerate remaining packages ([#17078](https://github.com/codyoss/google-cloud-python/issues/17078)) ([cc4f36f](https://github.com/codyoss/google-cloud-python/commit/cc4f36f65e8b29d28f636e082435801b899cbca0))
+
 ## [0.15.0](https://github.com/googleapis/google-cloud-python/compare/google-area120-tables-v0.14.0...google-area120-tables-v0.15.0) (2026-06-02)
 
 

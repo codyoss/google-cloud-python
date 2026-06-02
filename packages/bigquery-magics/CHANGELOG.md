@@ -4,6 +4,20 @@
 
 [1]: https://pypi.org/project/bigquery-magics/#history
 
+## [0.15.1](https://github.com/codyoss/google-cloud-python/compare/bigquery-magics-v0.15.0...bigquery-magics-v0.15.1) (2026-06-02)
+
+
+### Features
+
+* **bigquery-magics:** deprecate `--engine=bigframes`, run `%load_ext bigframes` and use `%%bqsql` magics instead ([#16573](https://github.com/codyoss/google-cloud-python/issues/16573)) ([dbaf8f5](https://github.com/codyoss/google-cloud-python/commit/dbaf8f54db13d66bc0a2311bff6085615ee38958))
+* **bigquery-magics:** drop support for Python 3.9 ([#16587](https://github.com/codyoss/google-cloud-python/issues/16587)) ([961eacd](https://github.com/codyoss/google-cloud-python/commit/961eacd039a2583bc019e0502bc4c1c1d88ab410))
+* update minimum google-cloud-bigquery ([#16174](https://github.com/codyoss/google-cloud-python/issues/16174)) ([70e7a09](https://github.com/codyoss/google-cloud-python/commit/70e7a09be15564f9098fc328a5b69b6770800129))
+
+
+### Bug Fixes
+
+* **bigquery-magics:** Drop support for Python 3.9 ([#16949](https://github.com/codyoss/google-cloud-python/issues/16949)) ([fab4e71](https://github.com/codyoss/google-cloud-python/commit/fab4e7123cd7f7b5d5fef3e8eb923a37d8999388))
+
 ## [0.15.0](https://github.com/googleapis/google-cloud-python/compare/bigquery-magics-v0.14.0...bigquery-magics-v0.15.0) (2026-05-06)
 
 

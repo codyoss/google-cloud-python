@@ -4,6 +4,30 @@
 
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
+## [2.40.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-pubsub-v2.39.0...google-cloud-pubsub-v2.40.0) (2026-06-02)
+
+
+### Features
+
+* A new field `mime_type` is added to message ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* added support for detecting key-value pairs in client provided ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Addition of Section and SectionItem APIs ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* populate the `persisted_data_checksums` field with object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* **pubsub:** regenerate pubsub library using gapic-generator v1.32.0 ([#17167](https://github.com/codyoss/google-cloud-python/issues/17167)) ([01d3127](https://github.com/codyoss/google-cloud-python/commit/01d3127d6c96cf87f52e1304eeb9f788226bf066))
+* Support app authentication with admin-consent scopes for Chat API ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
+
+### Bug Fixes
+
+* resolve issue with pubsub generation ([#17219](https://github.com/codyoss/google-cloud-python/issues/17219)) ([b21c1d4](https://github.com/codyoss/google-cloud-python/commit/b21c1d447e41d1be93da313e01e75646a942e607))
+
+
+### Documentation
+
+* Fix documentation URL AIInference MessageTransform ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* improve wording around `object_checksums` in bidi write object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Update reference documentation for Chat API ListMessages, ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
 ## [2.39.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-pubsub-v2.38.0...google-cloud-pubsub-v2.39.0) (2026-06-02)
 
 

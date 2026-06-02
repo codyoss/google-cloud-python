@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-saasplatform-saasservicemgmt/#history
 
+## [0.7.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-saasplatform-saasservicemgmt-v0.7.0...google-cloud-saasplatform-saasservicemgmt-v0.7.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-s packages ([#17086](https://github.com/codyoss/google-cloud-python/issues/17086)) ([40b522a](https://github.com/codyoss/google-cloud-python/commit/40b522a8473dec7ade45113ddd44ccd960803c45))
+
 ## [0.7.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-saasplatform-saasservicemgmt-v0.6.0...google-cloud-saasplatform-saasservicemgmt-v0.7.0) (2026-06-02)
 
 

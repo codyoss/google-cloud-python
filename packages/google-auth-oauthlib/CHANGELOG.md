@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-auth-oauthlib/#history
 
+## [1.4.1](https://github.com/codyoss/google-cloud-python/compare/google-auth-oauthlib-v1.4.0...google-auth-oauthlib-v1.4.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* **google-auth-oauthlib:** Drop support for Python 3.9 ([#16939](https://github.com/codyoss/google-cloud-python/issues/16939)) ([25e2a2d](https://github.com/codyoss/google-cloud-python/commit/25e2a2dcade4bdbac91b6a501604809d8efbba82))
+* replace deprecated `utcfromtimestamp` in google-auth-oauthlib ([#16732](https://github.com/codyoss/google-cloud-python/issues/16732)) ([e1c5af7](https://github.com/codyoss/google-cloud-python/commit/e1c5af76593e8710870393f422715d8387051f4e))
+
 ## [1.4.0](https://github.com/googleapis/google-cloud-python/compare/google-auth-oauthlib-v1.3.1...google-auth-oauthlib-v1.4.0) (2026-05-06)
 
 

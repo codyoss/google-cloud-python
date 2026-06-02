@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-apigee-connect/#history
 
+## [1.17.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-apigee-connect-v1.16.0...google-cloud-apigee-connect-v1.17.0) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-a packages ([#17089](https://github.com/codyoss/google-cloud-python/issues/17089)) ([39c9882](https://github.com/codyoss/google-cloud-python/commit/39c988267529419b03f808d7662ec521258571b4))
+
 ## [1.16.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-apigee-connect-v1.15.0...google-cloud-apigee-connect-v1.16.0) (2026-06-02)
 
 

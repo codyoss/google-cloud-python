@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-access-context-manager/#history
 
+## [0.6.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-access-context-manager-v0.6.0...google-cloud-access-context-manager-v0.6.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* **project urls:** update incorrect urls in setup.py to point at monorepo vs splitrepo ([#17237](https://github.com/codyoss/google-cloud-python/issues/17237)) ([eaed04b](https://github.com/codyoss/google-cloud-python/commit/eaed04baf3cd356c3811c66e64c277c8841c7563))
+
 ## [0.6.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-access-context-manager-v0.5.0...google-cloud-access-context-manager-v0.6.0) (2026-06-02)
 
 

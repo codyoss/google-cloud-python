@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-asset/#history
 
+## [4.5.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-asset-v4.4.0...google-cloud-asset-v4.5.0) (2026-06-02)
+
+
+### Features
+
+* regenerate asset w/ dependencies using generator v1.32.0 ([#17153](https://github.com/codyoss/google-cloud-python/issues/17153)) ([ac594a0](https://github.com/codyoss/google-cloud-python/commit/ac594a0d31bcdef08c341a57badce462efcd7684))
+
 ## [4.4.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-asset-v4.3.0...google-cloud-asset-v4.4.0) (2026-06-02)
 
 

@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-chronicle/#history
 
+## [0.6.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-chronicle-v0.6.0...google-cloud-chronicle-v0.6.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-c packages ([#17091](https://github.com/codyoss/google-cloud-python/issues/17091)) ([1658393](https://github.com/codyoss/google-cloud-python/commit/165839343695fc74d09fc7900d4c55ddcb31a4d8))
+* update API sources and regenerate ([#16998](https://github.com/codyoss/google-cloud-python/issues/16998)) ([cef659d](https://github.com/codyoss/google-cloud-python/commit/cef659d8207939aab3834a32c99a3a2738cb3015))
+
 ## [0.6.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-chronicle-v0.5.0...google-cloud-chronicle-v0.6.0) (2026-06-02)
 
 

@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-build/#history
 
+## [3.38.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-build-v3.37.0...google-cloud-build-v3.38.0) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-b packages ([#17090](https://github.com/codyoss/google-cloud-python/issues/17090)) ([77d4fcc](https://github.com/codyoss/google-cloud-python/commit/77d4fcc15d1a6d96adb5f2765ecd0fcc47e478bd))
+
 ## [3.37.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-build-v3.36.0...google-cloud-build-v3.37.0) (2026-06-02)
 
 

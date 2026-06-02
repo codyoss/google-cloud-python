@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-cloudsecuritycompliance/#history
 
+## [0.8.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-cloudsecuritycompliance-v0.8.0...google-cloud-cloudsecuritycompliance-v0.8.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-c packages ([#17091](https://github.com/codyoss/google-cloud-python/issues/17091)) ([1658393](https://github.com/codyoss/google-cloud-python/commit/165839343695fc74d09fc7900d4c55ddcb31a4d8))
+
 ## [0.8.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-cloudsecuritycompliance-v0.7.0...google-cloud-cloudsecuritycompliance-v0.8.0) (2026-06-02)
 
 

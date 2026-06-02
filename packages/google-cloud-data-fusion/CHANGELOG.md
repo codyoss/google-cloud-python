@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-data-fusion/#history
 
+## [1.18.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-data-fusion-v1.17.0...google-cloud-data-fusion-v1.18.0) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-d packages ([#17092](https://github.com/codyoss/google-cloud-python/issues/17092)) ([d49a2b9](https://github.com/codyoss/google-cloud-python/commit/d49a2b9412b4ee9105125db36104a3e18344e0ad))
+
 ## [1.17.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-data-fusion-v1.16.0...google-cloud-data-fusion-v1.17.0) (2026-06-02)
 
 

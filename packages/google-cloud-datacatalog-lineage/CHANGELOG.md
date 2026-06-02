@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-datacatalog-lineage/#history
 
+## [0.7.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-datacatalog-lineage-v0.7.0...google-cloud-datacatalog-lineage-v0.7.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-datacatalog-lineage ([#17148](https://github.com/codyoss/google-cloud-python/issues/17148)) ([e77dc55](https://github.com/codyoss/google-cloud-python/commit/e77dc55f6702d7d7878db8b270a3b6c74a304532))
+
 ## [0.7.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-datacatalog-lineage-v0.6.0...google-cloud-datacatalog-lineage-v0.7.0) (2026-06-02)
 
 

@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-databasecenter/#history
 
+## [0.9.1](https://github.com/codyoss/google-cloud-python/compare/google-cloud-databasecenter-v0.9.0...google-cloud-databasecenter-v0.9.1) (2026-06-02)
+
+
+### Features
+
+* regenerate google-cloud-d packages ([#17092](https://github.com/codyoss/google-cloud-python/issues/17092)) ([d49a2b9](https://github.com/codyoss/google-cloud-python/commit/d49a2b9412b4ee9105125db36104a3e18344e0ad))
+
 ## [0.9.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-databasecenter-v0.8.0...google-cloud-databasecenter-v0.9.0) (2026-06-02)
 
 

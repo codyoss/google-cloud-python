@@ -4,6 +4,15 @@
 
 [1]: https://pypi.org/project/google-cloud-dataproc/#history
 
+## [5.29.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-dataproc-v5.28.0...google-cloud-dataproc-v5.29.0) (2026-06-02)
+
+
+### Features
+
+* Add `Engine` field to support LightningEngine in clusters and add ([919fd4c](https://github.com/codyoss/google-cloud-python/commit/919fd4c2304c0fb732148175f27d5b3b6d7e4212))
+* regenerate google-cloud-d packages ([#17092](https://github.com/codyoss/google-cloud-python/issues/17092)) ([d49a2b9](https://github.com/codyoss/google-cloud-python/commit/d49a2b9412b4ee9105125db36104a3e18344e0ad))
+* update API sources and regenerate ([#16998](https://github.com/codyoss/google-cloud-python/issues/16998)) ([cef659d](https://github.com/codyoss/google-cloud-python/commit/cef659d8207939aab3834a32c99a3a2738cb3015))
+
 ## [5.28.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataproc-v5.27.0...google-cloud-dataproc-v5.28.0) (2026-06-02)
 
 

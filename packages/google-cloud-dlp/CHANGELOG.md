@@ -4,6 +4,25 @@
 
 [1]: https://pypi.org/project/google-cloud-dlp/#history
 
+## [3.38.0](https://github.com/codyoss/google-cloud-python/compare/google-cloud-dlp-v3.37.0...google-cloud-dlp-v3.38.0) (2026-06-02)
+
+
+### Features
+
+* A new field `mime_type` is added to message ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* added support for detecting key-value pairs in client provided ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Addition of Section and SectionItem APIs ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* populate the `persisted_data_checksums` field with object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* regenerate google-cloud-d packages ([#17092](https://github.com/codyoss/google-cloud-python/issues/17092)) ([d49a2b9](https://github.com/codyoss/google-cloud-python/commit/d49a2b9412b4ee9105125db36104a3e18344e0ad))
+* Support app authentication with admin-consent scopes for Chat API ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
+
+### Documentation
+
+* Fix documentation URL AIInference MessageTransform ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* improve wording around `object_checksums` in bidi write object ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+* Update reference documentation for Chat API ListMessages, ([56ccbd8](https://github.com/codyoss/google-cloud-python/commit/56ccbd8612b6790b0477bf8d777080061072e745))
+
 ## [3.37.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dlp-v3.36.0...google-cloud-dlp-v3.37.0) (2026-06-02)
 
 

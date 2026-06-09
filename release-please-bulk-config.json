@@ -1,5 +1,4 @@
 {
-  "release-type": "python-librarian",
   "bump-minor-pre-major": true,
   "bump-patch-for-minor-pre-major": true,
   "packages": {
@@ -986,9 +985,15 @@
       "extra-files": [
         "google/cloud/confidentialcomputing/gapic_version.py",
         "google/cloud/confidentialcomputing_v1/gapic_version.py",
+        "google/cloud/confidentialcomputing_v1alpha1/gapic_version.py",
         {
           "jsonpath": "$.clientLibrary.version",
           "path": "samples/generated_samples/snippet_metadata_google.cloud.confidentialcomputing.v1.json",
+          "type": "json"
+        },
+        {
+          "jsonpath": "$.clientLibrary.version",
+          "path": "samples/generated_samples/snippet_metadata_google.cloud.confidentialcomputing.v1alpha1.json",
           "type": "json"
         }
       ]
@@ -3776,5 +3781,6 @@
     "packages/sqlalchemy-spanner": {
       "component": "sqlalchemy-spanner"
     }
-  }
+  },
+  "release-type": "python-librarian"
 }

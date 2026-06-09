@@ -749,6 +749,7 @@ libraries:
     version: 0.10.0
     apis:
       - path: google/cloud/confidentialcomputing/v1
+      - path: google/cloud/confidentialcomputing/v1alpha1
     python:
       metadata_name_override: confidentialcomputing
       default_version: v1
